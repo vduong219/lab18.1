@@ -1,0 +1,14 @@
+.carousel-item {
+  height: 26rem;
+  position: relative;
+  color: white;
+}
+
+.footer-link a {
+  text-decoration: none;
+  cursor: grab;
+}
+
+.bd-placeholder-img {
+  background-image: url(./Images/bg-img1.jpg);
+}
